@@ -1,3 +1,9 @@
+ignition-gui5 (5.2.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gui5 5.2.0-1 release
+
+ -- Ashton Larkin <ashton@openrobotics.org>  Wed, 28 Jul 2021 10:58:58 -0600
+
 ignition-gui5 (5.1.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui5 5.1.0-1 release
